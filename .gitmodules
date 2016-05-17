@@ -1,0 +1,3 @@
+[submodule "mongodb-cookbook"]
+	path = mongodb-cookbook
+	url = https://github.com/chuangtim/mongodb-cookbook.git
